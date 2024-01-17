@@ -1,3 +1,4 @@
 # git-learning
 this is my first repository
-author veer pratap
+<br>
+ <h1> author veer pratap </h1>
